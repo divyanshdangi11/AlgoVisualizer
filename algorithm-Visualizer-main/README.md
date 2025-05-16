@@ -14,7 +14,7 @@ Algorithm Visualizer is a web application designed to help users visualize vario
 
 
 ## Deployment Link
-[Algorithm Visualizer](https://algorithm-visualizer-anish.netlify.app/)
+[Algorithm Visualizer](https://dd-algo-visualizer.netlify.app/)
 
 ## Features
 
@@ -43,4 +43,4 @@ Algorithm Visualizer is a web application designed to help users visualize vario
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/777anishsingh/algorithm-visualizer.git
+   git clone https://dd-algo-visualizer.netlify.app/
